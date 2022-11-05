@@ -1,7 +1,6 @@
-#<h1 align="center">Hi 👋, I'm Moyaxzan</h1>
-<h3 align="center">Currently student at EFREI Paris</h3>
+<h3 align="center">Hi 👋, I'm Moyaxzan</h3>
 
-- 🌱 I’m currently learning **Computer Science**
+🌱 I’m currently learning **Computer Science** at ERFEI Paris
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
