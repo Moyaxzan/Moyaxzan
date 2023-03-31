@@ -1,6 +1,6 @@
 <h3 align="center">Hi 👋, I'm Moyaxzan</h3>
 
-🌱 I’m currently student. Did 1 year at EFREI Paris and currently atempting the "42's piscine"
+🌱 I’m currently student at 42 Paris!
 
 ![Moyaxzan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moyaxzan&theme=transparent&show_icons=true)
 
