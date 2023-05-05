@@ -1,7 +1,5 @@
 <h3 align="center">Hi 👋, I'm Moyaxzan</h3>
 
-🌱 I’m currently student at 42 Paris!
-
 <!-- ![Moyaxzan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moyaxzan&theme=transparent&show_icons=true) -->
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clha9c7ne006808mfnruqnk8i/stats?cursusId=21&coalitionId=47" alt="tsaint-p's 42 stats" /></a>
 <h3 align="left">Languages and Tools:</h3>
