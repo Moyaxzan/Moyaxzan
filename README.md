@@ -7,7 +7,7 @@
 
 <div align="left"> <h4>Get Next Line</h4> <a href="https://github.com/Moyaxzan/Get-Next-Line"><img src="https://badge42.vercel.app/api/v2/clha9c7ne006808mfnruqnk8i/project/3089590" alt="tsaint-p's 42 get_next_line Score" /></a></div>
 
-<div align="left"> <h4>ft_printf</h4> <a href="https://github.com/Moyaxzan/ft_printf"><img src="https://badge42.vercel.app/api/v2/clha9c7ne006808mfnruqnk8i/project/3084481" alt="tsaint-p's 42 ft_printf Score" /></a></div>
+<div align="left"> <h4>ft_printf</h4> <a href="https://github.com/Moyaxzan/ft_printf"><img src="https://badge42.vercel.app/api/v2/clha9c7ne006808mfnruqnk8i/project/3090094" alt="tsaint-p's 42 ft_printf Score" /></a></div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
