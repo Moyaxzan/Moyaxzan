@@ -25,3 +25,37 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1022px-Vimlogo.svg.png" alt="Vim" width="35" height="40"/>
   </a>
 </p>
+
+<h3 align="left">42 School Projects:</h3>
+<p align="left">
+  <a href="https://github.com/Moyaxzan/42-Libft" target="_blank" rel="noreferrer">
+    <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/libftm.png" alt="Libft with bonuses" width="100" height="100"/>
+  </a>
+  <a href="https://github.com/Moyaxzan/42-Get_Next_Line" target="_blank" rel="noreferrer">
+    <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/get_next_linem.png" alt="Get Next Line with bonuses" width="100" height="100"/>
+  </a>
+  <a href="https://github.com/Moyaxzan/42-ft_printf" target="_blank" rel="noreferrer">
+    <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/ft_printfe.png" alt="Ft Printf" width="100" height="100"/>
+  </a>
+  <a href="https://github.com/Moyaxzan/42-Push_Swap" target="_blank" rel="noreferrer">
+    <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/push_swapm.png" alt="Push Swap with bonuses" width="100" height="100"/>
+  </a>
+  <a href="https://github.com/Moyaxzan/42-Minitalk" target="_blank" rel="noreferrer">
+    <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/minitalkm.png" alt="Minitalk with bonuses" width="100" height="100"/>
+  </a>
+  <a href="https://github.com/Moyaxzan/42-fract-ol" target="_blank" rel="noreferrer">
+    <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/fract-olm.png" alt="Fract-ol with bonuses" width="100" height="100"/>
+  </a>
+  <a href="https://github.com/Moyaxzan/42-Minishell" target="_blank" rel="noreferrer">
+    <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/minishellm.png" alt="Minishell with bonuses" width="100" height="100"/>
+  </a>
+  <a href="https://github.com/Moyaxzan/42-Philosopher" target="_blank" rel="noreferrer">
+    <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/philosopherse.png" alt="Philosophers" width="100" height="100"/>
+  </a>
+  <a href="https://github.com/Moyaxzan/42-cub3d" target="_blank" rel="noreferrer">
+    <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/cub3dm.png" alt="Cub3d with bonuses" width="100" height="100"/>
+  </a>
+  <a href="https://github.com/Moyaxzan/42-netpractice" target="_blank" rel="noreferrer">
+    <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/netpracticem.png" alt="Netpractice with bonuses" width="100" height="100"/>
+  </a>
+</p>
