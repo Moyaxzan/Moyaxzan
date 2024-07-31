@@ -26,7 +26,7 @@
   </a>
 </p>
 
-<h3 align="left">42 School Projects:</h3>
+<h3 align="left">42 Projects:</h3>
 <p align="center">
   <a href="https://github.com/Moyaxzan/42-Libft" target="_blank" rel="noreferrer">
     <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/libftm.png" alt="Libft" width="100" height="100"/>
