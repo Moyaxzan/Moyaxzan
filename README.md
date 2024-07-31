@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   </a>
@@ -27,7 +27,7 @@
 </p>
 
 <h3 align="left">42 School Projects:</h3>
-<p align="left">
+<p align="center">
   <a href="https://github.com/Moyaxzan/42-Libft" target="_blank" rel="noreferrer">
     <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/libftm.png" alt="Libft" width="100" height="100"/>
   </a>
