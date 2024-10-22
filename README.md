@@ -35,7 +35,11 @@
     <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/get_next_linem.png" alt="Get_Next_Line" width="100" height="100"/>
   </a>
   <a href="https://github.com/Moyaxzan/42-ft_printf" target="_blank" rel="noreferrer">
-    <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/ft_printfe.png" alt="ft_Printf" width="100" height="100"/>
+    <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/ft_printfe.png"     alt="ft_Printf" width="100" height="100"/>
+  </a>
+  <a target="_blank" rel="noreferrer">
+    <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/born2berootm.png" 
+alt="Born2beRoot" width="100" height="100"/>
   </a>
   <a href="https://github.com/Moyaxzan/42-Push_Swap" target="_blank" rel="noreferrer">
     <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/push_swapm.png" alt="Push Swap" width="100" height="100"/>
