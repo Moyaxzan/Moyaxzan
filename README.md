@@ -62,4 +62,7 @@ alt="Born2beRoot" width="100" height="100"/>
   <a target="_blank" rel="noreferrer">
     <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/netpracticem.png" alt="Netpractice" width="100" height="100"/>
   </a>
+  <a href="https://github.com/Moyaxzan/42-ft_irc" target="_blank" rel="noreferrer">
+    <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/netpracticem.png" alt="ft_irc" width="100" height="100"/>
+  </a>
 </p>
