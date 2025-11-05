@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,ts,nodejs,react,tailwind,sqlite,fastify,docker,nginx,linux,git,vim&perline=10" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,ts,nodejs,react,tailwind,sqlite,fastify,docker,nginx,linux,git,vim,nvim&perline=10" />
   </a>
 </p>
 
