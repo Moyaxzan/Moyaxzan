@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=sqlite,nodejs,react,tailwind,vite,docker,nginx,linux,git,neovim&perline=10" />
+    <img src="https://skillicons.dev/icons?i=sqlite,nodejs,react,tailwind,docker,nginx,linux,git,neovim&perline=10" />
   </a>
 </p>
 
