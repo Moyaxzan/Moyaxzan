@@ -6,11 +6,21 @@
 
 ---
 
-<h3 align="center">💻 Languages and Tools</h3>
+<h3 align="center">💬 Languages</h3>
 
 <p align="center">
   <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,ts,nodejs,react,tailwind,sqlite,fastify,docker,nginx,linux,git,vim,neovim&perline=10" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,ts,html,css,sql&perline=10" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">🧰 Tools & Frameworks</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=nodejs,fastify,react,tailwind,vite,docker,nginx,linux,git,neovim&perline=10" />
   </a>
 </p>
 
