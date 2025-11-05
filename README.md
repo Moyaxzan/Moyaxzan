@@ -24,6 +24,11 @@
   <a href="https://www.vim.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1022px-Vimlogo.svg.png" alt="Vim" width="35" height="40"/>
   </a>
+  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind" width="40" height="40"/>
+  </a>
+
+  
 </p>
 
 <h3 align="left">42 Projects:</h3>
