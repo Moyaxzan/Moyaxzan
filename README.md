@@ -68,7 +68,7 @@
   <a href="https://github.com/Moyaxzan/42-ft_irc" target="_blank" rel="noreferrer">
     <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/ft_ircm.png" alt="ft_irc" width="100" height="100"/>
   </a>
-  <a href="https://github.com/Moyaxzan/42-ft_transcendance" target="_blank" rel="noreferrer">
+  <a href="https://github.com/Moyaxzan/42-ft_transcendence" target="_blank" rel="noreferrer">
     <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/ft_transcendencee.png" alt="ft_transcendance" width="100" height="100"/>
   </a>
 </p>
